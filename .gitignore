@@ -2,6 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-secret/
-secret/respondents/
-!/secret/respondents
+secret/*
+secret/respondents/*
+!secret/respondents
