@@ -1,0 +1,32 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Dear `r recipientName`,
+
+As Andrew explained in his message, Church Army’s Research Unit (CARU) have been contracted by the diocese to carry out research into the New Communities Pioneer projects. 
+
+I’ve been encouraged by the swiftness and enthusiasm with which many of you have already replied to Andrew’s initial message. Thank you so much for your willingness to aid us and the diocese in learning from your experience. As a Research team, we’re looking forward to speaking with you and learning more about your work.
+
+Attached to this email are a project information sheet and consent form. Please familiarise yourself with both of these and come back to us if you have any questions. If you’re happy to proceed, please send the completed form to my colleagues Andy Wier (Research team leader), Andrew Wooding (Team administrator) and myself (all cc’d). Indicating consent on an electronic form can be difficult but you can either insert a scanned signature into the Word document, or copy and paste the ’checkbox statements’ from the form into an email.
+
+As Andrew Anderson-Gear mentioned in his email, the research will involve completing an initial questionnaire before taking part in a telephone/video interview with a member of our research team. In preparation for the interview, it would be really helpful if you could take a look through the attached list of questions and send us your initial thoughts and reflections on these prior to the interview. Please don’t feel obliged to answer every question in detail as there will be opportunity to explain your responses more fully during the interview.
+
+We’re hoping to conduct the majority of our interviews during August and September. Recognising that you may be away over the summer, please let us know if there are particular days / weeks that work for you (or which it would be good to avoid) and we’ll then look to firm up the details.
+
+As pioneers, your observations will comprise the centrepiece of our analysis. We also intend to gather responses from others who have proximity to each project so that we can understand your responses within a wider context. To this end, we would really appreciating a few more people we could interview:
+
+* People in your pioneering team
+  * Up to three people who work alongside you in the context of your pioneering project and would be willing to take part in a mini focus group
+* One wider stakeholder
+  * Somebody from outside of your team who has a level of involvement or investment in the project. This might be a local church leader, a member of the local community or anyone else of your choosing. 
+                
+Once you’ve thought about who those people might be and checked they’re ok with this, we would be very grateful if you could send us their details. To do this, you might want to send them a brief ‘Church Army’s Research Unit will be getting in touch’ email, copying in myself (`david.lovell@churcharmy.org`), Andy Wier (`andy.wier@churcharmy.org`) and Andrew Wooding (`andrew.wooding@churcharmy.org`) so that we can get in touch to arrange an interview. There will be one group interview for the pioneering team, so it would maximise efficiency if you copied them all into a single email. 
+
+Thank you very much for the willingness that you have expressed up to now, and thank you in advance for sharing your time and knowledge with us. We look forward to speaking to you in the not too distant future. 
+
+Warm regards
+
+Dave Lovell
+
