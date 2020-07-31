@@ -4,4 +4,5 @@
 .Ruserdata
 secret/*
 secret/respondents/*
+!secret
 !secret/respondents
